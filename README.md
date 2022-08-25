@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **eporubin/eporubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://drive.google.com/file/d/1s54bhsXnoc-LgqdH7uINfYYTZLEWXms4/view?usp=sharing)](https://github.com/eporubin/)
+[![Peach Welcome Email Header (1)](https://user-images.githubusercontent.com/33602691/186593461-4c8a8a2f-3cb9-4635-9283-6651a0fb02c8.png)
+](https://github.com/eporubin/)

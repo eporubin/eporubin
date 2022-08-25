@@ -42,7 +42,20 @@ As a recent graduate from University of Huddersfield with first degree in **Web 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <p>
-
+  
 ## 🎵 Here is what I listen to meanwhile coding: 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnsogjb3qdp5pomp5jvwhsz2a4)
 
+## Let's get in touch: 
+  <p>
+    <a href="mailto: eporubin@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eporubin@gmail.com"/>
+    </a>
+    <a href="https://www.linkedin.com/in/porubinellen99/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/porubinellen99/"/>
+    </a>
+    <a href="[https://twitter.com/ritikhere307](https://www.instagram.com/elleporubin/)">
+      <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/elleporubin/"/>
+    </a>
+  </p>
+  

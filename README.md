@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name is Elena and I am an aspiring web developer looking forward to advance my career in web development and build inpiring visual platforms.
 
 ## 🔎 What I am looking to collaborate on:
-As a recent graduate from University of Huddersfield with first degree in **Web programming with cyber security** I am in search for a hostile, friendly collaboration enviroment there I have the posibility to learn from experts and would also have the oportunity to experience and create powerful interactive web platforms.
+As a recent graduate from University of Huddersfield with first degree in **Web programming with cyber security** I am in search for a hostile environment open to friendly collaboration there I have the posibility to learn from experts and would also have the oportunity to create powerful interactive web platforms.
 
 ## 📍 What I am focused on: 
 
